@@ -1,0 +1,4 @@
+Emre Adli Ogrencinin Harf Notu : AA
+Mehmet Ali Adli Ogrencinin Harf Notu : BB
+Ramazan Adli Ogrencinin Harf Notu : AA
+Mahmut Adli Ogrencinin Harf Notu : CC

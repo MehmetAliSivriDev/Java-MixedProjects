@@ -1,0 +1,17 @@
+Mehmet Ali Kisinin Fitness Programi :
+
+Sinav Hareketi Miktari= 20
+Mekik Hareketi Miktari= 20
+On Kol Hareketi Miktari= 20
+Arka Kol Hareketi Miktari= 20
+Sirt Hareketi Miktari= 20
+Gogus Hareketi Miktari= 20
+Bacak Hareketi Miktari= 20
+
+1. Islem: sinav Hareketi -->20
+2. Islem: mekik Hareketi -->20
+3. Islem: onkol Hareketi -->20
+4. Islem: arkakol Hareketi -->20
+5. Islem: sirt Hareketi -->20
+6. Islem: gogus Hareketi -->20
+7. Islem: bacak Hareketi -->20
